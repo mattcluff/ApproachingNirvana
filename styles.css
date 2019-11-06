@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(26, 120, 197);
+}
+
+#title {
+    text-align: center;
+    font-size: 60px;
+}
+
+#subTitle {
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+#bio {
+    font-weight: bold;
+  }
+
+#videoIntro {
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.musicTitles {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+} 
+
+#links {
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+}
+
